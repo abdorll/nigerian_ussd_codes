@@ -1,0 +1,52 @@
+{
+  "ussd": [
+    {
+      "code": "*311*pin#",
+      "description": "Airtime recharge"
+    },
+    {
+      "code": "*310#",
+      "description": "Check airtime balance"
+    },
+    {
+      "code": "*303#",
+      "description": "Borrow airtime"
+    },
+    {
+      "code": "*312#",
+      "description": "Buy data"
+    },
+    {
+      "code": "*321#",
+      "description": "Share data"
+    },
+    {
+      "code": "*323#",
+      "description": "Check data balance"
+    },
+    {
+      "code": "*305#",
+      "description": "Value-added services"
+    },
+    {
+      "code": "*996#",
+      "description": "Link NIN to SIM"
+    },
+    {
+      "code": "300#",
+      "description": "Customer care"
+    },
+    {
+      "code": "*123#",
+      "description": "Check MTN number"
+    },
+    {
+      "code": "*2442#",
+      "description": "Do-Not-Disturb (DND)"
+    },
+    {
+      "code": "3232",
+      "description": "Porting services"
+    }
+  ]
+}
