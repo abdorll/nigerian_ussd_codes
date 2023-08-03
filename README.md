@@ -1,6 +1,3 @@
 # Nigeria network USSD Codes
 
-## Getting Started
-key.properties file at keys_jks/
-upload-keystore.jsk at keys_jks/
-keystore password: Moyosore123!
+We are thrilled to announce the first release of "Nigeria Network" on the Play Store! Discover an effortless way to find Nigerian banks' USSD codes and network providers' USSD codes in one place. Seamlessly access essential services like balance checks, data bundles, and more. Enjoy the simplicity and convenience of the app as you navigate through the world of Nigerian banking and network services. Download now and experience the ease of managing USSD codes with "Nigeria Network."
